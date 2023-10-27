@@ -1,0 +1,21 @@
+
+
+wrong:
+ADD aphorism "Is evil really so attractive?.."
+add aphorism "Sometimes we see a lot, but we dont notice the main thing"
+print
+ADD aphorism "If you're going to do something, do it with style!"
+Hello, world!
+___PRINT
+
+
+Correct:
+ADD saying "You Only Live Once" England
+
+ADD proverb "A Cat Has Nine Lives" Egypt
+ADD proverb "One Arrow From Two Hawks" China
+ADD proverb "Don’t be afraid of going slow, just be afraid of stopping/standing still." China
+ADD aphorism "Is evil really so attractive?.." M.Y.Lermontov
+ADD saying "Actions speak louder than words." England
+REM proverb > 1
+PRINT
